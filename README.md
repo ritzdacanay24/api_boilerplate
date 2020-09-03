@@ -6,11 +6,18 @@ Dont forget to create your config directory!
 Here are the installed packages to get you started. No need to install them again.  :)
 
 bcrypt
+
 config
+
 cors
+
 express
+
 joi
+
 jsonwebtoken
+
 mongoose
+
 nodemon
 
